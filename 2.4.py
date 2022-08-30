@@ -6,10 +6,10 @@ eka = float(eka_str)
 toka = float(toka_str)
 kolmas = float(kolmas_str)
 
-S = eka+toka+kolmas
-T = eka*toka*kolmas
-KA = (eka+toka+kolmas)/3
+summa = eka+toka+kolmas
+tulo = eka*toka*kolmas
+keskiarvo = (eka+toka+kolmas)/3
 
-print(f'Summa: {S}')
-print(f'Tulo: {T}')
-print(f'Keskiarvo: {KA}')
+print(f'Summa: {summa}')
+print(f'Tulo: {tulo}')
+print(f'Keskiarvo: {keskiarvo}')
