@@ -1,11 +1,10 @@
-leiviskä_str = input('Anna leiviskät: ')
-naula_str = input('Anna naulat: ')
-luoti_str = input('Anna luodit: ')
+import math
 
-leiviskä = float(leiviskä_str)
-naula = float(naula_str)
-luoti = float(luoti_str)
+leiviskä = float(input('Anna leiviskät: '))
+naula = float(input('Anna naulat: '))
+luoti = float(input('Anna luodit: '))
 
 kg = (0.0133*luoti + 0.0133*32*naula + 0.0133*32*20*leiviskä)
+g = kg % 1
 
-print(f'{kg:.0f}')
+print(f'{math.floor(kg)} kg ja {g*1000:.2f} g')
