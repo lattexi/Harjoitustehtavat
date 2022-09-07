@@ -2,13 +2,15 @@ import random
 
 tahkot = int(input('Tahkot: '))
 
-def nopanheitto(tahkot):
-    random_silmäluku = random.randint(1, tahkot)
-    if(random_silmäluku == 6):
-        print(random_silmäluku)
-    else:
-        print(random_silmäluku)
-        nopanheitto(tahkot)
-    return
+def arvoHeitto(tahkot):
+    return random.randint(1, tahkot)
 
-print(nopanheitto(tahkot))
+def nopanheitto(tahkot):
+    random_silmäluku = arvoHeitto(tahkot)
+    while(random_silmäluku < tahkot):
+        print(random_silmäluku)
+        random_silmäluku = arvoHeitto(tahkot)
+
+    print(random_silmäluku)
+
+nopanheitto(tahkot)

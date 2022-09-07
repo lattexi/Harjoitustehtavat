@@ -1,12 +1,14 @@
 import random
 
-def nopanheitto():
-    random_silmäluku = random.randint(1, 6)
-    if(random_silmäluku > 5):
-        print(random_silmäluku)
-    else:
-        print(random_silmäluku)
-        nopanheitto()
-    return
+def arvoHeitto():
+    return random.randint(1, 6)
 
-print(nopanheitto())
+def nopanheitto():
+    random_silmäluku = arvoHeitto()
+    while(random_silmäluku < 6):
+        print(random_silmäluku)
+        random_silmäluku = arvoHeitto()
+
+    print(random_silmäluku)
+
+nopanheitto()
