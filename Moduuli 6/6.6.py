@@ -20,7 +20,7 @@ def main():
 
     if edukkuus1 < edukkuus2:
         print('Ensimmäinen pizza on halvempi')
-    else:
+    elif edukkuus2 < edukkuus1:
         print('Toinen pizza on halvempi')
 
 main()

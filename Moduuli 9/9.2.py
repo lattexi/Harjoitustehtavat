@@ -6,8 +6,6 @@ class auto:
         self.tämänhetkinennopeus = 0
         self.kuljettumatka = 0
 
+auto = auto(1, 142)
 
-
-auto = auto("ABC-123", 142)
-
-print (f"{auto.rekisteritunnus}, {auto.huippunopeus}, {auto.tämänhetkinennopeus}, {auto.kuljettumatka}")
+print (f"{auto.rekisteritunnus}, {auto.huippunopeus}, {auto.tämänhetkinennopeus}, {auto.kuljettumatka}" )
