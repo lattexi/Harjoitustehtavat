@@ -30,8 +30,6 @@ class Talo:
     def __init__(self, akerros, ykerros, hissilk):
         self.hissit = [Hissi(akerros, ykerros) for _ in range(hissilk)]
         self.akerros = akerros
-        self.ykerros = ykerros
-        self.hissilk = hissilk
 
     def aja_hissi(self, hissinum, kerros):
         if 0 <= hissinum < len(self.hissit):
