@@ -3,24 +3,24 @@ class Julkaisu:
         self.nimi = nimi
 
 class Kirja(Julkaisu):
-    def __init__(self, nimi, kirjoittaja, sivumaara):
+    def __init__(self, nimi, kirjoittaja, sivumäärä):
         super().__init__(nimi)
         self.kirjoittaja = kirjoittaja
-        self.sivumaara = sivumaara
+        self.sivumäärä = sivumäärä
 
     def tulosta_tiedot(self):
         print(f"Kirjan nimi: {self.nimi}")
         print(f"Kirjoittaja: {self.kirjoittaja}")
-        print(f"Sivumäärä: {self.sivumaara}")
+        print(f"Sivumäärä: {self.sivumäärä}")
 
 class Lehti(Julkaisu):
-    def __init__(self, nimi, paatoimittaja):
+    def __init__(self, nimi, päätoimittaja):
         super().__init__(nimi)
-        self.paatoimittaja = paatoimittaja
+        self.päätoimittaja = päätoimittaja
 
     def tulosta_tiedot(self):
         print(f"Lehden nimi: {self.nimi}")
-        print(f"Päätoimittaja: {self.paatoimittaja}")
+        print(f"Päätoimittaja: {self.päätoimittaja}")
 
 
 aku_ankka = Lehti("Aku Ankka", "Aki Hyyppä")
