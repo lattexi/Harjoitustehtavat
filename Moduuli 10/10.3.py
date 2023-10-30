@@ -33,7 +33,7 @@ class Talo:
 
     def aja_hissi(self, hissinum, kerros):
         if 0 <= hissinum < len(self.hissit):
-            print(f"Ajetaan hissillä {hissinum + 1} kerrokseen {kerros}.")
+            print(f"Ajetaan hissillä {hissinum} kerrokseen {kerros}.")
             self.hissit[hissinum].siirry_kerrokseen(kerros)
         else:
             print("Annettu hissin numero ei ole kelvollinen.")
@@ -45,7 +45,12 @@ class Talo:
 
 
 talo = Talo(1, 5, 2)
+talo2 = Talo(1, 10, 4)
 
-talo.aja_hissi(0, 3)
+talo.aja_hissi(1, 3)
 talo.aja_hissi(1, 4)
 talo.palohälytys()
+
+talo2.aja_hissi(0, 5)
+talo2.aja_hissi(3, 9)
+talo2.palohälytys()
