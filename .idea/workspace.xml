@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9378f5e6-419d-4571-884a-30fd26c22c95" name="Changes" comment="9">
-      <change afterPath="$PROJECT_DIR$/Moduuli 12/12.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 12/12.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 13/13.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli 13/testi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcss/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcss/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcss/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcss/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcss/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 9/testi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/htmlcss/home.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/htmlcss/products.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,14 +56,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/laurikarhu/Documents/GitHub/Harjoitustehtavat&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/laurikarhu/Documents/GitHub/Harjoitustehtavat",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Moduuli 6" />
@@ -111,7 +131,7 @@
       <workItem from="1693186835111" duration="804000" />
       <workItem from="1693224732714" duration="241000" />
       <workItem from="1693382411225" duration="13515000" />
-      <workItem from="1695935163049" duration="38354000" />
+      <workItem from="1695935163049" duration="82443000" />
     </task>
     <task id="LOCAL−00001" summary="1.">
       <created>1661823107384</created>
@@ -299,7 +319,13 @@
       <option name="presentableId" value="LOCAL−00031" />
       <updated>1698741572825</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL−00032" summary="9">
+      <created>1699002906367</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1699002906367</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +412,7 @@
     <SUITE FILE_PATH="coverage/Harjoitustehtavat$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1692602727141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 7" />
     <SUITE FILE_PATH="coverage/Harjoitustehtavat$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1662709863995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/Harjoitustehtavat$6_4.coverage" NAME="6.4 Coverage Results" MODIFIED="1692689166364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
-    <SUITE FILE_PATH="coverage/Harjoitustehtavat$12_1.coverage" NAME="12.1 Coverage Results" MODIFIED="1698838058924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 12" />
+    <SUITE FILE_PATH="coverage/Harjoitustehtavat$12_1.coverage" NAME="12.1 Coverage Results" MODIFIED="1699010468703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 12" />
     <SUITE FILE_PATH="coverage/pythonProject$heimaailma.coverage" NAME="heimaailma Coverage Results" MODIFIED="1661821977047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Harjoitustehtavat$4_4.coverage" NAME="4.4 Coverage Results" MODIFIED="1662550891360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Harjoitustehtavat$10_1.coverage" NAME="10.1 Coverage Results" MODIFIED="1698238577267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />

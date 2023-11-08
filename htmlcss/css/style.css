@@ -1,0 +1,176 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    background-color: azure;
+    padding: 1rem;
+}
+
+nav {
+    background-color: lightgrey;
+    display: flex;
+    width: 90%;
+    height: 2rem;
+    margin: auto;
+    text-align-all: center;
+    padding: 1rem;
+}
+
+.banner {
+    display: block;
+    width: 8rem;
+    height: 4rem;
+    background-color: grey;
+    margin: -1rem;
+}
+
+.button {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: -1rem;
+    margin-bottom: -1rem;
+    margin-top: -1rem;
+}
+
+.button a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 11rem;
+    height: 4rem;
+    font-size: larger;
+    text-decoration: none;
+    color: black;
+}
+
+.button a:hover{
+    background-color: grey;
+}
+
+main {
+    background-image: url(https://pub-static.fotor.com/assets/bg/500w/ca5fa97f-7696-414b-bc87-9b5205b27575.jpg);
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    padding: 1rem;
+    color: lightgray;
+}
+
+.header {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image2 {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.text {
+    margin: auto;
+    text-align: center;
+    width: 70%;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.product-item {
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    width: 25%;
+    text-align: center;
+}
+
+.contact-information {
+    display: block;
+    width: 20%;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.contact-information a {
+    color: dodgerblue;
+}
+
+.contact-container {
+    display: flex;
+}
+
+.contact-pic {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.button a.active {
+    background-color: darkgrey;
+    color: white;
+}
+
+.products-container {
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 90%;
+}
+.product {
+    flex: 0 0 30%;
+    margin-bottom: 2rem;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.product h2 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.product-image {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.product-description p {
+    text-align: justify;
+    color: #666;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+@media (max-width: 768px) {
+    .product {
+        flex: 0 0 100%;
+    }
+}
