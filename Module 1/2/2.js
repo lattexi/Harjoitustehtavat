@@ -1,11 +1,11 @@
-function getUserGreeting() {
-    let userName = prompt("Please enter your name:");
+function Tervehdys() {
+    let nimi = prompt("Anna nimesi:");
 
-    if (userName) {
-        let greetingMessage = `Hello, ${userName}!`;
+    if (nimi) {
+        let tervehdys = `Hei, ${nimi}!`;
 
-        document.getElementById('greeting').textContent = greetingMessage;
+        document.getElementById('result').textContent = tervehdys;
     }
 }
 
-document.addEventListener('DOMContentLoaded', getUserGreeting);
+Tervehdys()
