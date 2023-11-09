@@ -65,16 +65,14 @@ main {
 }
 
 .image {
-    display: block;
+    text-align: center;
     margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
 
 .image img {
-    width: auto; /* tai prosentuaalinen leveys */
-    max-width: 100%; /* Estää kuvaa venymästä liikaa */
-    height: auto; /* Säilyttää kuvasuhteen */
+    width: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .text {
@@ -111,6 +109,7 @@ main {
 
 .contact-container {
     display: flex;
+    padding: 1rem;
 }
 
 .button a.active {
