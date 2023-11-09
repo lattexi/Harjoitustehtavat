@@ -1,14 +1,11 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
-
 .container {
     display: block;
-    width: 90%;
-    height: auto;
-    margin: auto;
-    background-color: azure;
-    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* tai haluttu korkeus */
 }
 
 nav {
@@ -55,6 +52,7 @@ nav {
 
 main {
     background-image: url(https://pub-static.fotor.com/assets/bg/500w/ca5fa97f-7696-414b-bc87-9b5205b27575.jpg);
+    display: block;
     width: 90%;
     height: 80%;
     margin: auto;
@@ -73,10 +71,10 @@ main {
     width: 50%;
 }
 
-.image2 {
-    display: block;
-    margin: auto;
-    width: 50%;
+.image img {
+    width: auto; /* tai prosentuaalinen leveys */
+    max-width: 100%; /* Estää kuvaa venymästä liikaa */
+    height: auto; /* Säilyttää kuvasuhteen */
 }
 
 .text {
@@ -113,13 +111,6 @@ main {
 
 .contact-container {
     display: flex;
-}
-
-.contact-pic {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
 }
 
 .button a.active {
