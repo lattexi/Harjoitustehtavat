@@ -3,6 +3,57 @@
   <component name="ChangeListManager">
     <list default="true" id="9378f5e6-419d-4571-884a-30fd26c22c95" name="Changes" comment="9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/1/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/2/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/2/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/2/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/3/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/3/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/3/3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/4/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/4/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/4/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Module 1/4/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 1/1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 1/1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 10/10.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 10/10.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 10/10.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 10/10.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 10/10.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 10/10.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 11/11.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 11/11.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 12/12.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 12/12.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 12/12.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 12/12.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 13/13.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 13/13.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 13/testi.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 13/testi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 2/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 2/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 2/2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 2/2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 2/2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 2/2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 2/2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 2/2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 2/2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 2/2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 2/2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 2/2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 3/3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 3/3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 3/3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 3/3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 3/3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 3/3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 3/3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 3/3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 4/4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 4/4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 4/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 4/4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 4/4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 4/4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 4/4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 4/4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 4/4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 4/4.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 4/4.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 4/4.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 5/5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 5/5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 5/5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 5/5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 5/5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 5/5.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 5/5.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 5/5.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 6/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 6/6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 6/6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 6/6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 6/6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 6/6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 6/6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 6/6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 6/6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 6/6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 6/6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 6/6.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 7/7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 7/7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 7/7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 7/7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 7/7.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 7/7.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 8/8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 8/8.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 9/9.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 9/9.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 9/9.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 9/9.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 9/9.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 9/9.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli 9/9.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Moduuli 9/9.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +63,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -67,11 +118,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript" />
+      <recent name="$PROJECT_DIR$/python" />
       <recent name="$PROJECT_DIR$/Module 1/1" />
       <recent name="$PROJECT_DIR$/Moduuli 6" />
       <recent name="$PROJECT_DIR$/Moduuli 5" />
-      <recent name="$PROJECT_DIR$/Moduuli 4" />
-      <recent name="$PROJECT_DIR$/Moduuli 3" />
     </key>
   </component>
   <component name="RunManager">
@@ -354,7 +405,13 @@
       <option name="presentableId" value="LOCAL−00037" />
       <updated>1699570511159</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL−00038" summary="9">
+      <created>1699885874024</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1699885874024</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
