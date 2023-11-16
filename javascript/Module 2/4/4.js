@@ -1,5 +1,15 @@
 let numbers = []
-for (let i = 0; i < 5; i++) {
-    let num = prompt(`Enter number ${i + 1}:`)
+
+while (true) {
+    let num = prompt("Anna numero:")
+    num = parseInt(num)
+
+    if (num === 0) {
+        break
+    }
     numbers.push(num)
 }
+
+numbers.sort((a, b) => b - a)
+
+console.log("Numerot pienimmästä suurimpaan:", numbers)
