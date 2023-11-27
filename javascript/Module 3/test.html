@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button>Click me</button>
+<script>
+    const button = document.querySelector('button');
+
+function A(evt){
+  alert('This is function A');
+  nappi.removeEventListener('click', A);
+  nappi.addEventListener('click', B);
+}
+
+function B(evt){
+  alert('This is function B');
+}
+
+nappi.addEventListener('click', A);
+</script>
+</body>
+</html>
